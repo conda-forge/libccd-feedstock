@@ -26,7 +26,7 @@ requirements:
   # Make sure that libccd-double can't be installed
   # together with libccd
   run_constrained:
-    - libccd < 1
+    - libccd <1
 
 test:
   commands:
