@@ -7,3 +7,4 @@ github:
   tooling_branch_name: main
 build_platform:
   linux_ppc64le: linux_64
+  linux_aarch64: linux_64
