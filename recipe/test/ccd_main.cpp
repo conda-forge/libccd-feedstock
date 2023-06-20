@@ -12,7 +12,7 @@ int main()
 
     // Regression for https://github.com/conda-forge/libccd-feedstock/issues/8
     printf("Location of origin is %lf %lf %lf\n", 
-           ccd_vec3_origin[0], ccd_vec3_origin[1], ccd_vec3_origin[2])
+           ccd_vec3_origin[0], ccd_vec3_origin[1], ccd_vec3_origin[2]);
     
     return EXIT_SUCCESS;
 }
